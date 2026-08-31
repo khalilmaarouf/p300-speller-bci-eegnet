@@ -17,7 +17,7 @@ Designed for assistive communication for ALS and Locked-In Syndrome (LIS) patien
 ## 🌐 Live Interactive Demo
 
 You can experience the live interactive 6x6 Matrix P300 Speller and Real-Time ERP Topography directly in your browser:
-👉 **[Launch Interactive Web Interface Online](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)**
+👉 [Launch Interactive Web Interface Online](https://your-app-name.vercel.app)
 
 ---
 
