@@ -1,0 +1,6 @@
+{
+  "name": "P300 Speller BCI Studio",
+  "description": "Production-grade P300 Brain-Computer Interface ('Thought-to-Text') featuring EEGNet deep learning decoding, real BNCI2014_008 / BCI Comp III EEG data, interactive 6x6 matrix speller, and full clinical diagnostic suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
